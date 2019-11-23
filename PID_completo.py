@@ -1,7 +1,7 @@
 import sys
 import RPi.GPIO as GPIO
 import time
-import read_temp_double
+import read_double_temp
 
 
 
